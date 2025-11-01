@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log
+*.log
+
+# Build artifacts
+build/
+dist/
+
+# Editor configuration
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# macOS specific
+.DS_Store
